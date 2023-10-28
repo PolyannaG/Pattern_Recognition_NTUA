@@ -9,5 +9,5 @@ The subject of the included projects is:
 * Digit recognition from voice recordings:  
   MFCCs, MFSCs, Deltas, Delta-deltas, PCA, Naive Bayes Classifier, KNN Classifier, SVM, MLP, Standardization and MinMax Scaling, Hidden Markov Models (HMM), Gaussian Mixture Models (GMM), HMM-GMM, LSTM, Bidirectional LSTM, Dropout and Regulatization
   
-* Music genre and attribute recognition:  
+* Music genre classification and music attribute estimation:  
   LSTM, CNN, Transfer Learning, Multitask Learning
